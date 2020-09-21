@@ -29,4 +29,4 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: arpasali/dsg
-          tags: ltdoc, doc-0.0.3
+          tags: lt-doc, doc-0.0.4
