@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://arpidrogeo.github.io/docdsg"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Arpas"
 theme = "ananke"
