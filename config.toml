@@ -1,4 +1,4 @@
-baseURL = "https://arpidrogeo.github.io/docdsg"
+baseURL = "http://doc1.wdipgeo.arpas.adds"
 languageCode = "en-us"
-title = "Arpas"
+title = "Documentazione Arpas"
 theme = "ananke"
